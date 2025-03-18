@@ -9,7 +9,7 @@ I'm a **Frontend Developer** passionate about building responsive, user-focused 
 
 ## 🌟 Featured Projects
 - **[Ecuity Exousia](https://github.com/Sanath2349/ecuityexousia)**: A static landing page for a Hyderabad-based client (React, Material UI). [Live Demo](https://www.ecuityexousia.in)
-- **[Priacc Innovations](https://github.com/Sanath2349/priaccinovations)**: Another client landing page with a clean, responsive design. [Live Demo](https://www.priaccinovations.com)
+- **[Priacc Innovations](https://github.com/Sanath2349/priaccinnovations)**: Another client landing page with a clean, responsive design. [Live Demo](https://www.priaccinnovations.com)
 - **[Portfolio](https://github.com/Sanath2349/portfolio-new)**: My personal portfolio with a gradient theme and animations. [Live](https://sanathreddyportfolio.vercel.app/)
 
 ## 📫 Let’s Connect
